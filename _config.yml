@@ -1,0 +1,31 @@
+name: dskim98
+author: dskim98
+baseurl: 
+description: 개인 Blog
+github: http://www.github.com/doosikkim
+twitter: http://www.twitter.com/
+facebook: https://www.facebook.com/doosik.kim.71
+linkedin: https://www.linkedin.com/in/doosik-kim-11917876
+email: dskim98@gmail.com
+location: 37°31'06.7"N 126°51'50.4"E
+disqus: https://disqus.com/
+
+##Make sure to edit the above fields, especially for disqus.
+
+
+highlighter: rouge
+markdown: kramdown
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
