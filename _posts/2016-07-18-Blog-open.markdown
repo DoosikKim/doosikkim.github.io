@@ -1,0 +1,10 @@
+---
+title: Blog open
+date: 2016-07-18 10:20:30
+categories: smalltalk
+---
+
+### 블로그 시작
+## 개발
+## 일상
+## 기억해둘것
